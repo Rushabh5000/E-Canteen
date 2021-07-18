@@ -1,0 +1,13 @@
+D:\Web Projects 4.0\SessionShoppingCart\SessionShoppingCart\bin\SessionShoppingCart.dll
+D:\Web Projects 4.0\SessionShoppingCart\SessionShoppingCart\bin\SessionShoppingCart.pdb
+D:\Web Projects 4.0\SessionShoppingCart\SessionShoppingCart\obj\Debug\ResolveAssemblyReference.cache
+D:\Web Projects 4.0\SessionShoppingCart\SessionShoppingCart\obj\Debug\SessionShoppingCart.dll
+D:\Web Projects 4.0\SessionShoppingCart\SessionShoppingCart\obj\Debug\SessionShoppingCart.pdb
+C:\Users\ZainFa\Downloads\SessionShoppingCart\SessionShoppingCart\SessionShoppingCart\bin\SessionShoppingCart.dll
+C:\Users\ZainFa\Downloads\SessionShoppingCart\SessionShoppingCart\SessionShoppingCart\bin\SessionShoppingCart.pdb
+C:\Users\ZainFa\Downloads\SessionShoppingCart\SessionShoppingCart\SessionShoppingCart\obj\Debug\SessionShoppingCart.dll
+C:\Users\ZainFa\Downloads\SessionShoppingCart\SessionShoppingCart\SessionShoppingCart\obj\Debug\SessionShoppingCart.pdb
+C:\Users\rusha\Documents\Visual Studio 2010\WebSites\SessionShoppingCart\SessionShoppingCart\bin\SessionShoppingCart.dll
+C:\Users\rusha\Documents\Visual Studio 2010\WebSites\SessionShoppingCart\SessionShoppingCart\bin\SessionShoppingCart.pdb
+C:\Users\rusha\Documents\Visual Studio 2010\WebSites\SessionShoppingCart\SessionShoppingCart\obj\Debug\SessionShoppingCart.dll
+C:\Users\rusha\Documents\Visual Studio 2010\WebSites\SessionShoppingCart\SessionShoppingCart\obj\Debug\SessionShoppingCart.pdb
